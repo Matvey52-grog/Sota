@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+    text-transform: uppercase;
+}
+.header-a {
+    margin-left: 50px;
+    text-decoration: none;
+    color: black;
+}
+header img {
+    margin-left: 34px;
+    margin-top: 18px;
+}
+h1 {
+    text-align: center;
+    margin-top: 60px;
+}
+main img {
+    margin-left: 130px;
+}
+h2 {
+    text-align: center;
+}
+h3 {
+    text-align: center;
+    color: #C74817;
+}
+main a {
+    margin-left: 280px;
+    text-decoration: none;
+    color: black;
+}
+footer img {
+    margin-left: 340px;
+    margin-top: 60px;
+}
+footer p {
+    text-align: center;
+}
